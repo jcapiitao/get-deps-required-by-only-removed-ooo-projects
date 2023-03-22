@@ -1,0 +1,13 @@
+python-oslo-messaging-0:14.2.0-0.20230206090903.687dea2.el9.src
+python-taskflow-0:5.1.0-0.20230111153707.5bcac4c.el9.src
+python3-aodh-0:16.1.0-0.20230310120938.bb36bb6.el9.noarch
+python3-ceilometer-1:20.1.0-0.20230322073946.ea7e026.el9.noarch
+python3-gnocchi-0:4.5.0-0.20230303183929.eaa83d6.el9.noarch
+python3-google-auth-1:1.30.0-1.el9s.noarch
+python3-google-auth-1:2.12.0-1.el9s.noarch
+python3-google-auth-1:2.6.6-1.el9s.noarch
+python3-mistral-0:16.0.0-0.20230320141947.1f9f1f3.el9.noarch
+python3-novajoin-0:1.3.0-0.20210922175419.265146e.el9.noarch
+python3-oslo-messaging-0:14.2.0-0.20230206090903.687dea2.el9.noarch
+python3-taskflow-0:5.1.0-0.20230111153707.5bcac4c.el9.noarch
+python3-vitrage-0:10.1.0-0.20230320142406.ad67ad3.el9.noarch

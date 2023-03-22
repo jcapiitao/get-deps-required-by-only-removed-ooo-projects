@@ -1,0 +1,14 @@
+python-openstackclient-0:6.2.0-0.20230310081332.05d34ff.el9.src
+python-osc-lib-0:2.7.0-0.20230221185053.58ff270.el9.src
+python-oslo-serialization-0:5.1.1-0.20230223080119.b4be3a4.el9.src
+python-troveclient-0:8.1.0-0.20230221203420.5a20908.el9.src
+python3-manilaclient-0:4.3.0-0.20230221222713.0748620.el9.noarch
+python3-neutronclient-0:9.0.0-0.20230221215441.16a2cd1.el9.noarch
+python3-octavia-0:12.1.0-0.20230321175402.ba92aeb.el9.noarch
+python3-osc-lib-0:2.7.0-0.20230221185053.58ff270.el9.noarch
+python3-osc-placement-0:4.1.0-0.20230221194549.b6505e2.el9.noarch
+python3-oslo-serialization-tests-0:5.1.1-0.20230223080119.b4be3a4.el9.noarch
+python3-pystache-0:0.5.4-13.el9s.noarch
+python3-tackerclient-0:1.13.0-0.20230221223329.e5bd58f.el9.noarch
+python3-tripleoclient-0:20.0.1-0.20230302174829.4d8fe98.el9.noarch
+python3-troveclient-0:8.1.0-0.20230221203420.5a20908.el9.noarch

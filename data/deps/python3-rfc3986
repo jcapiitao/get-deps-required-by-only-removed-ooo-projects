@@ -1,0 +1,11 @@
+openstack-ironic-common-1:21.5.0-0.20230322211858.b201e52.el9.noarch
+python-oslo-config-2:9.1.1-0.20230223083523.515daab.el9.src
+python3-httpx-0:0.17.1-1.el9s.noarch
+python3-httpx-0:0.23.0-1.el9s.noarch
+python3-nova-1:27.1.0-0.20230313183947.3886f07.el9.noarch
+python3-octavia-0:12.1.0-0.20230321175402.ba92aeb.el9.noarch
+python3-oslo-config-2:9.1.1-0.20230223083523.515daab.el9.noarch
+python3-rfc3986+idna2008-0:1.4.0-5.el9s.noarch
+python3-rfc3986+idna2008-0:1.5.0-1.el9s.noarch
+python3-sahara-tempest-0:0.13.0-0.20210921182054.98063d3.el9.noarch
+python3-tacker-0:9.1.0-0.20230314125448.05fe9fa.el9.noarch

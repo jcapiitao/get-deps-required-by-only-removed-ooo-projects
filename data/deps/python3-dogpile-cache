@@ -1,0 +1,11 @@
+openstack-keystone-1:23.0.0-0.20230320124311.f5db980.el9.src
+os-collect-config-0:13.0.2-0.20211012150155.3a7d05a.el9.noarch
+python-openstacksdk-0:1.0.1-0.20230307085939.3876f3f.el9.src
+python-oslo-cache-0:3.3.1-0.20230227082431.318e95e.el9.src
+python-shade-0:1.33.0-0.20210921184457.e7c7f29.el9.src
+python3-ironicclient-0:5.1.0-0.20230221193652.f945974.el9.noarch
+python3-keystone-1:23.0.0-0.20230320124311.f5db980.el9.noarch
+python3-mistral-0:16.0.0-0.20230320141947.1f9f1f3.el9.noarch
+python3-openstacksdk-0:1.0.1-0.20230307085939.3876f3f.el9.noarch
+python3-oslo-cache-0:3.3.1-0.20230227082431.318e95e.el9.noarch
+python3-shade-0:1.33.0-0.20210921184457.e7c7f29.el9.noarch

@@ -1,0 +1,3 @@
+heat-cfntools-0:1.4.2-15.el9s.noarch
+openstack-glance-1:26.1.0-0.20230314203410.b023562.el9.src
+openstack-rally-plugins-0:2.2.1-0.20230311164848.ca00440.el9.noarch

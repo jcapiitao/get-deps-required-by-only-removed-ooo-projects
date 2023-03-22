@@ -1,0 +1,8 @@
+python-ironic-lib-0:5.4.0-0.20230221204854.71a7655.el9.src
+python-oslo-middleware-0:5.1.1-0.20230223083055.7725ac9.el9.src
+python3-ironic-lib-0:5.4.0-0.20230221204854.71a7655.el9.noarch
+python3-keystone-1:23.0.0-0.20230320124311.f5db980.el9.noarch
+python3-oslo-middleware-0:5.1.1-0.20230223083055.7725ac9.el9.noarch
+python3-paramiko-0:2.11.0-1.el9s.noarch
+python3-paramiko-0:2.7.2-4.el9s.noarch
+python3-passlib+bcrypt-0:1.7.4-3.el9s.noarch

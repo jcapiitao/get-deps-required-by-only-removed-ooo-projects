@@ -1,0 +1,10 @@
+openstack-dashboard-1:23.2.0-0.20230322190925.c88583e.el9.noarch
+openstack-keystone-1:23.0.0-0.20230320124311.f5db980.el9.src
+openstack-zaqar-1:16.0.0-0.20230315125358.54aed6b.el9.noarch
+python-django-horizon-1:23.2.0-0.20230322190925.c88583e.el9.src
+python-oslo-cache-0:3.3.1-0.20230227082431.318e95e.el9.src
+python3-designate-1:16.1.0-0.20230320230347.5703810.el9.noarch
+python3-keystone-1:23.0.0-0.20230320124311.f5db980.el9.noarch
+python3-nova-1:27.1.0-0.20230313183947.3886f07.el9.noarch
+python3-novajoin-0:1.3.0-0.20210922175419.265146e.el9.noarch
+python3-oslo-cache-0:3.3.1-0.20230227082431.318e95e.el9.noarch

@@ -1,0 +1,10 @@
+openstack-keystone-1:23.0.0-0.20230320124311.f5db980.el9.src
+openstack-tripleo-common-0:18.1.0-0.20230310033838.9fca209.el9.src
+python-tripleoclient-0:20.0.1-0.20230302174829.4d8fe98.el9.src
+python3-keystone-1:23.0.0-0.20230320124311.f5db980.el9.noarch
+python3-passlib+argon2-0:1.7.4-3.el9s.noarch
+python3-passlib+bcrypt-0:1.7.4-3.el9s.noarch
+python3-passlib+totp-0:1.7.4-3.el9s.noarch
+python3-tripleo-common-0:18.1.0-0.20230310033838.9fca209.el9.noarch
+python3-tripleoclient-0:20.0.1-0.20230302174829.4d8fe98.el9.noarch
+python3-trove-1:19.1.0-0.20230322164448.5046b8a.el9.noarch

@@ -1,0 +1,5 @@
+facter-devel-1:3.14.19-1.el9s.x86_64
+facter-doc-1:4.2.10-1.el9s.noarch
+puppet-headless-0:7.10.0-1.el9s.noarch
+puppet-headless-0:7.16.0-1.el9s.noarch
+ruby-facter-1:3.14.19-1.el9s.x86_64

@@ -1,0 +1,12 @@
+hdf5-0:1.10.6-5.el9s.aarch64
+hdf5-0:1.10.6-5.el9s.ppc64le
+hdf5-0:1.10.6-5.el9s.x86_64
+hdf5-mpich-0:1.10.6-5.el9s.aarch64
+hdf5-mpich-0:1.10.6-5.el9s.ppc64le
+hdf5-mpich-0:1.10.6-5.el9s.x86_64
+hdf5-openmpi-0:1.10.6-5.el9s.aarch64
+hdf5-openmpi-0:1.10.6-5.el9s.ppc64le
+hdf5-openmpi-0:1.10.6-5.el9s.x86_64
+libaec-devel-0:1.0.4-7.el9s.aarch64
+libaec-devel-0:1.0.4-7.el9s.ppc64le
+libaec-devel-0:1.0.4-7.el9s.x86_64

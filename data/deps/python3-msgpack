@@ -1,0 +1,12 @@
+openstack-zaqar-1:16.0.0-0.20230315125358.54aed6b.el9.noarch
+python-os-ken-0:2.6.0-0.20230111151459.e288532.el9.src
+python-oslo-privsep-0:3.1.0-0.20230221210907.c2b6df0.el9.src
+python-oslo-serialization-0:5.1.1-0.20230223080119.b4be3a4.el9.src
+python3-ceilometer-1:20.1.0-0.20230322073946.ea7e026.el9.noarch
+python3-gnocchi-0:4.5.0-0.20230303183929.eaa83d6.el9.noarch
+python3-influxdb-0:5.3.1-1.el9s.noarch
+python3-keystone-1:23.0.0-0.20230320124311.f5db980.el9.noarch
+python3-os-ken-0:2.6.0-0.20230111151459.e288532.el9.noarch
+python3-oslo-privsep-0:3.1.0-0.20230221210907.c2b6df0.el9.noarch
+python3-oslo-serialization-0:5.1.1-0.20230223080119.b4be3a4.el9.noarch
+python3-tooz-0:3.2.0-0.20221021131942.1a76dd6.el9.noarch

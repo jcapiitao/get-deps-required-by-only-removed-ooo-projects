@@ -1,0 +1,5 @@
+openstack-kolla-0:15.1.0-0.20230322142923.d7d43be.el9.noarch
+openstack-murano-agent-0:11.1.0-0.20230308010939.9ae3969.el9.noarch
+openstack-murano-agent-0:11.1.0-0.20230308010939.9ae3969.el9.src
+openstack-tripleo-common-0:18.1.0-0.20230310033838.9fca209.el9.src
+python3-tripleo-common-0:18.1.0-0.20230310033838.9fca209.el9.noarch

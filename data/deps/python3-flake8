@@ -1,0 +1,7 @@
+diskimage-builder-0:3.28.0-0.20230322222423.1bb559b.el9.noarch
+openstack-mistral-ui-0:16.0.0-0.20230207191115.27fe800.el9.src
+python-hacking-0:1.0.1-0.20230221124718.865398f.el9.src
+python-tackerclient-0:1.13.0-0.20230221223329.e5bd58f.el9.src
+python3-hacking-0:1.0.1-0.20230221124718.865398f.el9.noarch
+python3-pytest-flake8-0:1.0.6-3.el9s.noarch
+python3-tackerclient-tests-unit-0:1.13.0-0.20230221223329.e5bd58f.el9.noarch

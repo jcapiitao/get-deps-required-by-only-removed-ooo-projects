@@ -1,0 +1,5 @@
+mock-0:2.8-1.el9s.noarch
+openstack-octavia-0:12.1.0-0.20230321175402.ba92aeb.el9.src
+openstack-packstack-1:21.0.1-0.20230322163955.15bbe1f.el9.noarch
+python3-networking-bigswitch-2:12.0.3-0.20210922172548.96cf540.el9.noarch
+python3-octavia-0:12.1.0-0.20230321175402.ba92aeb.el9.noarch

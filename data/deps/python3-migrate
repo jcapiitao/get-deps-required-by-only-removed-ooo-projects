@@ -1,0 +1,12 @@
+openstack-heat-1:20.1.0-0.20230317062348.d07d22e.el9.src
+openstack-heat-common-1:20.1.0-0.20230317062348.d07d22e.el9.noarch
+openstack-senlin-0:15.1.0-0.20230313224246.c442021.el9.src
+python-oslo-db-0:12.3.1-0.20230123090846.b689b63.el9.src
+python3-cinder-common-1:22.1.0-0.20230320205928.45fd889.el9.noarch
+python3-ec2-api-0:16.0.0-0.20230306130215.27c479a.el9.noarch
+python3-keystone-1:23.0.0-0.20230320124311.f5db980.el9.noarch
+python3-nova-1:27.1.0-0.20230313183947.3886f07.el9.noarch
+python3-oslo-db-0:12.3.1-0.20230123090846.b689b63.el9.noarch
+python3-oslo-db-tests-0:12.3.1-0.20230123090846.b689b63.el9.noarch
+python3-senlin-0:15.1.0-0.20230313224246.c442021.el9.noarch
+python3-trove-1:19.1.0-0.20230322164448.5046b8a.el9.noarch

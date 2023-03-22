@@ -1,0 +1,8 @@
+openstack-aodh-0:16.1.0-0.20230310120938.bb36bb6.el9.src
+openstack-heat-1:20.1.0-0.20230317062348.d07d22e.el9.src
+openstack-heat-common-1:20.1.0-0.20230317062348.d07d22e.el9.noarch
+openstack-mistral-0:16.0.0-0.20230320141947.1f9f1f3.el9.src
+openstack-watcher-0:10.1.0-0.20230308070834.cd1c0f3.el9.src
+python3-aodh-0:16.1.0-0.20230310120938.bb36bb6.el9.noarch
+python3-mistral-0:16.0.0-0.20230320141947.1f9f1f3.el9.noarch
+python3-watcher-0:10.1.0-0.20230308070834.cd1c0f3.el9.noarch

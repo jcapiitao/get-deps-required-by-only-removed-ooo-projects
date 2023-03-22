@@ -1,0 +1,7 @@
+python-octaviaclient-0:3.4.0-0.20230227083450.6e306cc.el9.src
+python-openstacksdk-0:1.0.1-0.20230307085939.3876f3f.el9.src
+python-shade-0:1.33.0-0.20210921184457.e7c7f29.el9.src
+python-sushy-tools-0:0.21.2-0.20230221170038.4357bf2.el9.src
+python3-octaviaclient-0:3.4.0-0.20230227083450.6e306cc.el9.noarch
+python3-shade-0:1.33.0-0.20210921184457.e7c7f29.el9.noarch
+python3-sushy-tools-tests-0:0.21.2-0.20230221170038.4357bf2.el9.noarch

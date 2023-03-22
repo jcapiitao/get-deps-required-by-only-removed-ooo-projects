@@ -1,0 +1,8 @@
+openstack-sahara-1:18.0.0-0.20230321143409.82885e6.el9.src
+python3-networking-mlnx-0:16.0.1-0.20220809083837.0a69b97.el9.noarch
+python3-tinyrpc-0:1.0.3-5.el9s.noarch
+python3-tinyrpc-tests-0:1.0.3-5.el9s.noarch
+python3-virtualbmc-0:3.0.1-0.20230310080842.7ce1923.el9.noarch
+python3-zmq-tests-0:22.0.3-1.el9s.aarch64
+python3-zmq-tests-0:22.0.3-1.el9s.ppc64le
+python3-zmq-tests-0:22.0.3-1.el9s.x86_64

@@ -1,0 +1,5 @@
+python-cliff-0:4.2.0-0.20230221191631.fb9a3a9.el9.src
+python3-cinderlib-1:5.1.0-0.20230307100338.9c37686.el9.noarch
+python3-cliff-0:4.2.0-0.20230221191631.fb9a3a9.el9.noarch
+python3-flask-1:2.2.2-1.el9s.noarch
+python3-keyring-0:23.9.3-1.el9s.noarch

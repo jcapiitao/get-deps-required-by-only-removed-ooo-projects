@@ -1,0 +1,12 @@
+libsodium-devel-0:1.0.18-7.el9s.aarch64
+libsodium-devel-0:1.0.18-7.el9s.ppc64le
+libsodium-devel-0:1.0.18-7.el9s.x86_64
+python3-pynacl-0:1.4.0-2.el9s.aarch64
+python3-pynacl-0:1.4.0-2.el9s.ppc64le
+python3-pynacl-0:1.4.0-2.el9s.x86_64
+python3-pynacl-0:1.5.0-1.el9s.aarch64
+python3-pynacl-0:1.5.0-1.el9s.ppc64le
+python3-pynacl-0:1.5.0-1.el9s.x86_64
+zeromq-0:4.3.4-1.el9s.aarch64
+zeromq-0:4.3.4-1.el9s.ppc64le
+zeromq-0:4.3.4-1.el9s.x86_64

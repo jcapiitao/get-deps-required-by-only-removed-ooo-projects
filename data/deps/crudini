@@ -1,0 +1,3 @@
+openstack-kolla-0:15.1.0-0.20230322142923.d7d43be.el9.src
+openstack-tripleo-common-container-base-0:18.1.0-0.20230310033838.9fca209.el9.noarch
+openstack-trove-1:19.1.0-0.20230322164448.5046b8a.el9.src

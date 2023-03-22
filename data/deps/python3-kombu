@@ -1,0 +1,12 @@
+openstack-heat-1:20.1.0-0.20230317062348.d07d22e.el9.src
+openstack-murano-agent-0:11.1.0-0.20230308010939.9ae3969.el9.noarch
+openstack-murano-agent-0:11.1.0-0.20230308010939.9ae3969.el9.src
+openstack-murano-common-0:15.1.0-0.20230308010439.335829f.el9.noarch
+python-oslo-messaging-0:14.2.0-0.20230206090903.687dea2.el9.src
+python-taskflow-0:5.1.0-0.20230111153707.5bcac4c.el9.src
+python3-heat-tests-1:20.1.0-0.20230317062348.d07d22e.el9.noarch
+python3-heat-tests-tempest-0:1.7.1-0.20230112105345.a3719a8.el9.noarch
+python3-mistral-0:16.0.0-0.20230320141947.1f9f1f3.el9.noarch
+python3-oslo-messaging-0:14.2.0-0.20230206090903.687dea2.el9.noarch
+python3-tacker-0:9.1.0-0.20230314125448.05fe9fa.el9.noarch
+python3-trove-1:19.1.0-0.20230322164448.5046b8a.el9.noarch

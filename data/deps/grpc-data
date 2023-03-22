@@ -1,0 +1,12 @@
+grpc-0:1.26.0-15.el9s.aarch64
+grpc-0:1.26.0-15.el9s.ppc64le
+grpc-0:1.26.0-15.el9s.x86_64
+grpc-0:1.41.1-6.el9s.aarch64
+grpc-0:1.41.1-6.el9s.ppc64le
+grpc-0:1.41.1-6.el9s.x86_64
+python3-grpcio-0:1.26.0-15.el9s.aarch64
+python3-grpcio-0:1.26.0-15.el9s.ppc64le
+python3-grpcio-0:1.26.0-15.el9s.x86_64
+python3-grpcio-0:1.41.1-6.el9s.aarch64
+python3-grpcio-0:1.41.1-6.el9s.ppc64le
+python3-grpcio-0:1.41.1-6.el9s.x86_64
